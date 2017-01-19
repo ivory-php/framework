@@ -25,7 +25,7 @@
 		}
 	},
 	"require": {
-		"illuminate/console": "^5.3",
+		"symfony/console": "^3.2",
 		"illuminate/database": "^5.3",
 		"doctrine/dbal": "^2.5",
 		"symfony/var-dumper": "^3.2",
@@ -45,6 +45,6 @@
 		"symfony/yaml": "^3.2",
 		"illuminate/filesystem": "^5.3",
 		"illuminate/events": "^5.3",
-		"react/react": "^0.4.2"
+		"react/react": "^0.4.2"		
 	}
 }
