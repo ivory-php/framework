@@ -44,6 +44,7 @@
 		"symfony/config": "^3.2",
 		"symfony/yaml": "^3.2",
 		"illuminate/filesystem": "^5.3",
-		"illuminate/events": "^5.3"
+		"illuminate/events": "^5.3",
+		"react/react": "^0.4.2"
 	}
 }
